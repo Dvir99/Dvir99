@@ -1,5 +1,12 @@
 <h2>Hi👋 I'm Dvir, a Full-Stack Developer </h2>
 
+<p>
+🔭 I’m currently working on <b>Projects</b> <br>
+🌱 I’m currently learning <b>Node.js & React</b>
+</p>
+
+
+
 <h3>🛠 Technologies: </h3>
 
 - 💻 &nbsp; C# | JavaScript | TypeScript 
@@ -19,8 +26,5 @@
 <!--
 **Dvir99/Dvir99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 -->
