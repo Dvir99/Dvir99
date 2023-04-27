@@ -2,7 +2,7 @@
 
 <p>
 🔭 I’m currently working on <b>Projects</b> <br>
-🌱 I’m currently learning <b>Node.js & React</b>
+🌱 I’m currently learning <b>Angular</b>
 </p>
 
 
