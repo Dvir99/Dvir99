@@ -1,4 +1,4 @@
-<h2>Hi👋 I'm Dvir, a Full-Stack Developer </h2>
+<h2>Hi👋 I'm Dvir, Software Developer </h2>
 
 <p>
 🔭 I’m currently working on <b>Projects</b> <br>
